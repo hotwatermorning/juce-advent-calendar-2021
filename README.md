@@ -11,6 +11,8 @@ cd /path/to/develop
 git clone https://github.com/hotwatermorning/juce-advent-calendar-2021.git
 cd juce-advent-calendar-2021
 git submodule update --init
+
+cd project
 cmake -B Build -G Xcode
 cmake --build Build --config Release
 ```
