@@ -1,6 +1,6 @@
 # juce-advent-calendar-2021
 
-A Sample Project for [JUCE Advent Calendar 2021](https://qiita.com/advent-calendar/2021/juce)
+A Sample Project for [JUCE Advent Calendar 2021](https://qiita.com/advent-calendar/2021/juce) Day 20.
 
 ## ビルド方法
 
