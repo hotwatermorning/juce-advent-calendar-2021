@@ -10,6 +10,7 @@ A Sample Project for [JUCE Advent Calendar 2021](https://qiita.com/advent-calend
 cd /path/to/develop
 git clone https://github.com/hotwatermorning/juce-advent-calendar-2021.git
 cd juce-advent-calendar-2021
+git submodule update --init
 cmake -B Build -G Xcode
 cmake --build Build --config Release
 ```
